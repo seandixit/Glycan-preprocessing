@@ -1,6 +1,6 @@
 # Data Preprocessing Pipeline for Acquiring 3D Molecular Structures of Glycans
 
-This is the data preprocessing pipeline to acquire 3d molecular structures of molecules (specifically glycans) from a dataset. Our aim was to fine-tune the 3DMolMS model ([here](https://github.com/JosieHong/3DMolMS)), which can predict the tandem mass spectra of a given molecule, on larger molecules. The model requires the 3d molecular structure of the molecules to generate predictions. Upon finding datasets that contained glycans and their spectra, we had to find the 3d molecular structure of the glycans.
+This is the data preprocessing pipeline to acquire 3d molecular structures of molecules (specifically glycans) from a dataset. Our aim was to fine-tune the 3DMolMS model ([3DMolMS Github](https://github.com/JosieHong/3DMolMS)), which can predict the tandem mass spectra of a given molecule, on larger molecules. The model requires the 3d molecular structure of the molecules to generate predictions. Upon finding datasets that contained glycans and their spectra, we had to find the 3d molecular structure of the glycans.
 
 ## Steps:
 
